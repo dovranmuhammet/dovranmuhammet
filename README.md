@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7602.jpg">
+<img align="center" alt="Coding" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7602.jpg">
 
 <h1 align="center">Hi 👋, I'm Dovran Muhammet</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
